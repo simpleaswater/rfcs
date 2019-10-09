@@ -10,8 +10,8 @@ We believe this can accelerate the learning momentum for everyone and provides a
 
 The process is pretty simple. Choose what you really want to do for the community:  
 
-1. Propose a new thread/topic/tutorial you believe can help the community  
+1. **Propose a new thread/topic/tutorial:** Do you believe that you can help the community by proposing a new topic that can benefit us all? Then propose a new RFC [here](https://github.com/simpleaswater/rfcs/issues/new/choose).  
   OR  
-2. Vote for one of the current proposals with any suggestions or helping hand  
+2. **Vote for a current proposal:** Do you see a proposal already made for your wishlist? In that case, we request you to upvote the RFC with a 👍 reaction. You can also add a comment in respective RFCs for any suggestions or volunteering.  
 
 RFCs are maintained by [@0zAND1z](https://github.com/0zAND1z)
