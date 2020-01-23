@@ -2,8 +2,8 @@
 name: RFC to propose a new topic/thread/tutorial
 about: Suggest an idea to make the website content more useful
 title: 'RFC: '
-labels: 'new-rfc, Hacktoberfest'
-assignees: 0zAND1z
+labels: 'new-rfc'
+assignees: 0zAND1z, vasa-develop
 
 ---
 
