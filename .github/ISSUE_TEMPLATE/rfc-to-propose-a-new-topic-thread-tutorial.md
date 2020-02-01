@@ -2,8 +2,8 @@
 name: RFC to propose a new topic/thread/tutorial
 about: Suggest an idea to make the website content more useful
 title: 'RFC: '
-labels: ''
-assignees: 0zAND1z
+labels: 'new-rfc'
+assignees: 0zAND1z, vasa-develop
 
 ---
 
@@ -11,4 +11,4 @@ assignees: 0zAND1z
 Please add your concise description of your new suggestion here.
 
 **[OPTIONAL] Additional context**
-Add any other context or screenshots about to support your suggestion. You may remove this segment if you wish to.
+Add any other context, screenshots, references, links about to support your suggestion. Basically anything that can help us to understand what you need and any existing work that we can use to start off.
